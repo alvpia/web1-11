@@ -12,4 +12,4 @@ if(answer === number){
   message="0~3の数字を入力してください";
 }
 
-document.getElementById('choice').textContent=message;
+document.getElementById('choice').textContent = message;
