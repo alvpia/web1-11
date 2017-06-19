@@ -12,6 +12,6 @@ if(answer === number){
   message="0~3の数字を入力してください";
 }
 
-document.getElementById('choice').textContent = number;
+document.getElementById('choice').textContent = "aaaa";
 
 document.getElementById('choice').textContent = message;
